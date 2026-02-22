@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Revolving door",
+  "base_artist": "Tate McRae",
+  "createdAt": "2026-02-22T19:52:31.769741Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Revolving Door",
+      "artist": "Crazy Town",
+      "has_synced": true,
+      "path": "select/01_Revolving_Door_Crazy_Town.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Revolving Door (Alternative Radio Mix)",
+      "artist": "Crazy Town",
+      "has_synced": true,
+      "path": "select/02_Revolving_Door_(Alternative_Radio_Mix)_Crazy_Town.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Revolving Door (feat. Stephen Costantino)",
+      "artist": "Crazy Town",
+      "has_synced": true,
+      "path": "select/03_Revolving_Door_(feat._Stephen_Costantino)_Crazy_Town.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Revolving Door",
+      "artist": "Crazy Town",
+      "has_synced": false,
+      "path": "select/04_Revolving_Door_Crazy_Town.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Revolving Door",
+      "artist": "Crazy Town",
+      "has_synced": true,
+      "path": "select/05_Revolving_Door_Crazy_Town.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Revolving Door",
+      "artist": "Joseph",
+      "has_synced": true,
+      "path": "select/06_Revolving_Door_Joseph.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Revolving Door",
+      "artist": "Jon Brion",
+      "has_synced": false,
+      "path": "select/07_Revolving_Door_Jon_Brion.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Revolving Door",
+      "artist": "Crazy Town",
+      "has_synced": true,
+      "path": "select/08_Revolving_Door_Crazy_Town.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Revolving Door (Alternative Radio Mix)",
+      "artist": "Crazy Town",
+      "has_synced": true,
+      "path": "select/09_Revolving_Door_(Alternative_Radio_Mix)_Crazy_Town.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Revolving Door (Clean Album Version)",
+      "artist": "Crazy Town",
+      "has_synced": true,
+      "path": "select/10_Revolving_Door_(Clean_Album_Version)_Crazy_Town.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Revolving Door",
+      "artist": "Kisnou",
+      "has_synced": true,
+      "path": "select/11_Revolving_Door_Kisnou.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Revolving Door",
+      "artist": "Crazy Town",
+      "has_synced": true,
+      "path": "select/12_Revolving_Door_Crazy_Town.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "REVOLVING DOOR",
+      "artist": "BEXEY",
+      "has_synced": true,
+      "path": "select/13_REVOLVING_DOOR_BEXEY.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Revolving Door (feat. Amethyst)",
+      "artist": "KISNOU",
+      "has_synced": true,
+      "path": "select/14_Revolving_Door_(feat._Amethyst)_KISNOU.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Revolving Door",
+      "artist": "DYSN",
+      "has_synced": true,
+      "path": "select/15_Revolving_Door_DYSN.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Revolving Door",
+      "artist": "Crazy Town",
+      "has_synced": true,
+      "path": "select/16_Revolving_Door_Crazy_Town.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Revolving door",
+      "artist": "Tate McRae",
+      "has_synced": false,
+      "path": "select/pl_01_Revolving_door_Tate_McRae.txt"
+    }
+  ]
+}
